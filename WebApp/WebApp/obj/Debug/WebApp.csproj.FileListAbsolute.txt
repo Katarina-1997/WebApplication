@@ -314,3 +314,9 @@ C:\Users\isidora.cvetkov\Documents\KatarinaDiplomski\WebApplication\WebApp\WebAp
 C:\Users\isidora.cvetkov\Documents\KatarinaDiplomski\WebApplication\WebApp\WebApp\bin\Microsoft.AspNet.Identity.Core.xml
 C:\Users\isidora.cvetkov\Documents\KatarinaDiplomski\WebApplication\WebApp\WebApp\bin\Microsoft.AspNet.Identity.Owin.xml
 C:\Users\isidora.cvetkov\Documents\KatarinaDiplomski\WebApplication\WebApp\WebApp\bin\System.Web.Http.Owin.xml
+C:\Users\isidora.cvetkov\Documents\KatarinaDiplomski\WebApplication\WebApp\WebApp\bin\Microsoft.Owin.Cors.dll
+C:\Users\isidora.cvetkov\Documents\KatarinaDiplomski\WebApplication\WebApp\WebApp\bin\Microsoft.Owin.Cors.xml
+C:\Users\isidora.cvetkov\Documents\KatarinaDiplomski\WebApplication\WebApp\WebApp\bin\Unity.Abstractions.dll
+C:\Users\isidora.cvetkov\Documents\KatarinaDiplomski\WebApplication\WebApp\WebApp\bin\Unity.Container.dll
+C:\Users\isidora.cvetkov\Documents\KatarinaDiplomski\WebApplication\WebApp\WebApp\bin\Unity.Abstractions.pdb
+C:\Users\isidora.cvetkov\Documents\KatarinaDiplomski\WebApplication\WebApp\WebApp\bin\Unity.Container.pdb
