@@ -320,3 +320,8 @@ C:\Users\isidora.cvetkov\Documents\KatarinaDiplomski\WebApplication\WebApp\WebAp
 C:\Users\isidora.cvetkov\Documents\KatarinaDiplomski\WebApplication\WebApp\WebApp\bin\Unity.Container.dll
 C:\Users\isidora.cvetkov\Documents\KatarinaDiplomski\WebApplication\WebApp\WebApp\bin\Unity.Abstractions.pdb
 C:\Users\isidora.cvetkov\Documents\KatarinaDiplomski\WebApplication\WebApp\WebApp\bin\Unity.Container.pdb
+C:\Users\isidora.cvetkov\Documents\KatarinaDiplomski\WebApplication\WebApp\WebApp\obj\Debug\WebApp.Migrations.InitialMigration.resources
+C:\Users\isidora.cvetkov\Documents\KatarinaDiplomski\WebApplication\WebApp\WebApp\obj\Debug\WebApp.csproj.GenerateResource.cache
+C:\Users\isidora.cvetkov\Documents\KatarinaDiplomski\WebApplication\WebApp\WebApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\isidora.cvetkov\Documents\KatarinaDiplomski\WebApplication\WebApp\WebApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\isidora.cvetkov\Documents\KatarinaDiplomski\WebApplication\WebApp\WebApp\obj\Debug\WebApp.Migrations.CreateUserMigration.resources
