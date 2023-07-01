@@ -360,12 +360,20 @@
     <Compile Include="Migrations\202307010938413_CreateUserMigration.Designer.cs">
       <DependentUpon>202307010938413_CreateUserMigration.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\202307011006005_ApplicationUserMigration.cs" />
+    <Compile Include="Migrations\202307011006005_ApplicationUserMigration.Designer.cs">
+      <DependentUpon>202307011006005_ApplicationUserMigration.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\AccountBindingModels.cs" />
     <Compile Include="Models\AccountViewModels.cs" />
     <Compile Include="Models\ApplicationUser.cs" />
     <Compile Include="Models\Enums.cs" />
     <Compile Include="Persistence\ApplicationDbContext.cs" />
+    <Compile Include="Persistence\Repository\IRepository.cs" />
+    <Compile Include="Persistence\Repository\Repository.cs" />
+    <Compile Include="Persistence\UnitOfWork\DemoUnitOfWork.cs" />
+    <Compile Include="Persistence\UnitOfWork\IUnitOfWork.cs" />
     <Compile Include="Providers\ApplicationOAuthProvider.cs" />
     <Compile Include="Providers\CustomOAuthProvider.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -467,6 +475,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\202307010938413_CreateUserMigration.resx">
       <DependentUpon>202307010938413_CreateUserMigration.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202307011006005_ApplicationUserMigration.resx">
+      <DependentUpon>202307011006005_ApplicationUserMigration.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>

@@ -325,3 +325,4 @@ C:\Users\isidora.cvetkov\Documents\KatarinaDiplomski\WebApplication\WebApp\WebAp
 C:\Users\isidora.cvetkov\Documents\KatarinaDiplomski\WebApplication\WebApp\WebApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
 C:\Users\isidora.cvetkov\Documents\KatarinaDiplomski\WebApplication\WebApp\WebApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
 C:\Users\isidora.cvetkov\Documents\KatarinaDiplomski\WebApplication\WebApp\WebApp\obj\Debug\WebApp.Migrations.CreateUserMigration.resources
+C:\Users\isidora.cvetkov\Documents\KatarinaDiplomski\WebApplication\WebApp\WebApp\obj\Debug\WebApp.Migrations.ApplicationUserMigration.resources
